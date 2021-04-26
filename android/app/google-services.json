@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "839253492103",
+    "firebase_url": "https://jainmetals-b875f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "jainmetals-b875f",
+    "storage_bucket": "jainmetals-b875f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839253492103:android:9772eed9da88cbd51e9322",
+        "android_client_info": {
+          "package_name": "com.db25.jain_metals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839253492103-siof0v7mf7pitdg2otpdkk6bakk9djso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJaeoWP4j6gIauro31SCcfnI1UCVLcDmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839253492103-siof0v7mf7pitdg2otpdkk6bakk9djso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
